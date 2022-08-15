@@ -1,7 +1,7 @@
 {
-  "name": "booking_server",
+  "name": "nodejs_typescript_boilerplate",
   "version": "1.0.0",
-  "description": "#### What is this repository for? #### - booking_server.",
+  "description": "#### What is this repository for? #### - nodejs_typescript_boilerplate.",
   "main": "dist/server.js",
   "engines": {
     "node": "16.13.1",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pramish/booking_server"
+    "url": "https://github.com/pramish/nodejs_typescript_boilerplate"
   },
   "author": "Pramish Luitel <pramish.luitel7@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pramish/booking_server/issues"
+    "url": "https://github.com/pramish/nodejs_typescript_boilerplate/issues"
   },
-  "homepage": "https://github.com/pramish/booking_server",
+  "homepage": "https://github.com/pramish/nodejs_typescript_boilerplate",
   "dependencies": {
     "aws-sdk": "^2.1189.0",
     "bcryptjs": "^2.4.3",

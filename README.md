@@ -1,1 +1,1 @@
-# booking_server
+# nodejs_typescript_boilerplate
